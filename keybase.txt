@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joschnei
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jordan-schneider.github.io
+  * I am joschnei (https://keybase.io/joschnei) on keybase.
+  * I have a public key ASCLgcQmnxUfSHRMtxzrxK8M-1NoVPqeH8_b3SLkzerotwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208b81c4269f151f48744cb71cebc4af0cfb536854fa9e1fcfdbdd22e4cdeae8b70a",
+      "host": "keybase.io",
+      "kid": "01208b81c4269f151f48744cb71cebc4af0cfb536854fa9e1fcfdbdd22e4cdeae8b70a",
+      "uid": "669b0e78f70684cdad407d5eaa86cf19",
+      "username": "joschnei"
+    },
+    "merkle_root": {
+      "ctime": 1610295725,
+      "hash": "408fa216a4327aa3c0c513ced9eddabd9e8467180d1eb0e44f62bc0864068e7097dd25ce543d2b49979e5e8a7a8519683d7e9a8295847dfac14fe78089fcca2b",
+      "hash_meta": "5ce30b6ad6490fd3118f3f786eceb694a7787cf8764acd861c684d7cc026c72c",
+      "seqno": 18676448
+    },
+    "service": {
+      "entropy": "/lCOU7TQ9O/G1hUjCuzSABGr",
+      "hostname": "jordan-schneider.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1610295834,
+  "expire_in": 504576000,
+  "prev": "e303478de6932c9cb1ea8e9b93a40d831609dc4b46334090e4758476a5e5116b",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi4HEJp8VH0h0TLcc68SvDPtTaFT6nh/P290i5M3q6LcKp3BheWxvYWTESpcCGMQg4wNHjeaTLJyx6o6bk6QNgxYJ3EtGM0CQ5HWEdqXlEWvEIHaXL5ROQvXilYbnlAXBtkJO8c0w3mRqdFiSpFbJ1ydSAgHCo3NpZ8RAhp16ARU/82jiof8WbPWhRYQai9jIhHToxflKCcVZubRlUCXXLpyMY9zYaAEurK/oFXHiFgNbp9su4wjpX/QdAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGpu9WkOKupc1n+fTejDNUbs9j8iBtgYZ6UKiOA+NqFzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joschnei
+
+==================================================================
